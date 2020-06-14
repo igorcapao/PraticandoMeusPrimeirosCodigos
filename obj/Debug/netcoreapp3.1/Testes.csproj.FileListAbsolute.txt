@@ -1,0 +1,13 @@
+A:\Repositório Igor\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.exe
+A:\Repositório Igor\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.deps.json
+A:\Repositório Igor\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.runtimeconfig.json
+A:\Repositório Igor\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.runtimeconfig.dev.json
+A:\Repositório Igor\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.dll
+A:\Repositório Igor\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.pdb
+A:\Repositório Igor\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.csprojAssemblyReference.cache
+A:\Repositório Igor\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.AssemblyInfoInputs.cache
+A:\Repositório Igor\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.AssemblyInfo.cs
+A:\Repositório Igor\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.csproj.CoreCompileInputs.cache
+A:\Repositório Igor\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.dll
+A:\Repositório Igor\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.pdb
+A:\Repositório Igor\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.genruntimeconfig.cache
